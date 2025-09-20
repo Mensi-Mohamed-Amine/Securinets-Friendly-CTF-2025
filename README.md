@@ -11,3 +11,4 @@ Securinets Friendly CTF 2025 Writeups.
 | 3   | baby_overflow       | pwn      | [baby_overflow](./pwn/baby_overflow/README.md)             | buffer overflow      |
 | 4   | controlled_overflow | pwn      | [controlled_overflow](./pwn/controlled_overflow/README.md) | buffer overflow      |
 | 5   | baby_pwntools       | pwn      | [baby_pwntools](./pwn/baby_pwntools/README.md)             | pwntools             |
+| 6   | calculator          | pwn      | [calculator](./pwn/baby_pwntools/README.md)                | pwntools             |
