@@ -6,11 +6,23 @@
 
 ## binary information
 
+```
+$ file main
+```
+
+![Alt text](img/2.png)
+
+```
+$ pwn checksec main
+```
+
+![Alt text](img/3.png)
+
 ## Solution
 
 In this task we are given the source code for the challenge, the program is comparing the local variable `key` with `0x1337`, if they are equal we won't get the flag else `win` function is called and the flag is printed.
 
-![Alt text](img/2.png)
+![Alt text](img/4.png)
 
 So in order to solve the challenge we should exploit the buffer overflow vulnerability to corrupt the value of the local variable `key` and get our flag.
 
