@@ -6,5 +6,6 @@ Securinets Friendly CTF 2025 Writeups.
 
 | #   | Name          | Category | Writeup Link                                   | Tags                 |
 | --- | ------------- | -------- | ---------------------------------------------- | -------------------- |
-| 1   | baby_overflow | pwn      | [baby_overflow](./pwn/baby_overflow/README.md) | buffer overflow      |
+| 1   | baby_netcat   | pwn      | [baby_netcat](./pwn/baby_netcat/README.md)     | netcat, sanity check |
 | 2   | baby_netcat   | pwn      | [baby_netcat](./pwn/baby_netcat/README.md)     | netcat, sanity check |
+| 3   | baby_overflow | pwn      | [baby_overflow](./pwn/baby_overflow/README.md) | buffer overflow      |

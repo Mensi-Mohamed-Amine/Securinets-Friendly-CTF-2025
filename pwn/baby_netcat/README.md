@@ -101,7 +101,7 @@ io.interactive()
 
 ## exploit output
 
-![Alt text](img/5.png)
+![Alt text](img/4.png)
 
 ## flag
 
