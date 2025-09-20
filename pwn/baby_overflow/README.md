@@ -105,6 +105,10 @@ io.interactive()
 
 ```
 
+## exploit output
+
+![Alt text](img/5.png)
+
 ## flag
 
 ```
